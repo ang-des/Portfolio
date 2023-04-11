@@ -32,6 +32,6 @@ The first wave of COVID-19 infections led to widespread stories of shortages in 
 
 ### Project 2
 
-- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
 
 ---
