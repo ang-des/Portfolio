@@ -56,7 +56,7 @@ This visual is a Scenario Manager created in Excel to show a simple table view o
 <br><br>
 <img height="225" width="700" src="images/graph5.png?raw=true"/>
 </p>
-<br><br>
+<br>
 
 <p>
 All calculations were done using 25% of the current vehicle inventory or 25% of the current number of rentals to ensure a more accurate comparison.
