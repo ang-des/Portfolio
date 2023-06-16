@@ -11,7 +11,7 @@
 ##### Examined and cleaned historical sales data using Excel (VLookUp and pivot tables). Completed exploratory data analysis to identify strategic scenarios to increase revenue, assessed by KPI performance. Presented models that showcased a 20% increase in profits, while lowering or maintaining operational costs.
 
 <p align="center">
-<img height="300" width="600" src="images/graph1.png?raw=true"/>
+<img height="325" width="600" src="images/graph1.png?raw=true"/>
 </p>
 
 <br><br>
@@ -27,7 +27,7 @@
 <br><br>
 
 <p align="center">
-<img height="300" width="700" src="images/graph5.png?raw=true"/>
+<img height="275" width="700" src="images/graph5.png?raw=true"/>
 </p>
 <br><br>
 
