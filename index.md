@@ -13,6 +13,7 @@
 ##### Presented comprehensive models that showcased a remarkable 20% increase in profits, while effectively managing and reducing operational costs.
 ##### Leveraged data-driven insights to provide actionable recommendations for revenue optimization and cost management strategies, contributing to the company's overall profitability and efficiency.
 
+<br>
 <p align="center">
 <img height="325" width="600" src="images/graph1.png?raw=true"/>
 </p>
