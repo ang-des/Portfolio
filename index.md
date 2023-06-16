@@ -3,7 +3,7 @@
 ---
 
 ### Business Analysis - Revenue Growth Models
-[Lariat Rent-A-Car](/sample_page)
+### Lariat Rent-A-Car
 <p align="center">
 <img width="600" src="images/Lariat.jpeg?raw=true"/>
 </p>
