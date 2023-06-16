@@ -12,6 +12,19 @@
 
 <br><br>
 <p align="center">
+<img width="700" src="images/graph1.png?raw=true"/>
+</p>
+
+<br><br>
+<p align="center">
+<img width="500" src="images/graph2.png?raw=true"/>
+</p>
+<p align="center">
+<img width="500" src="images/graph3.png?raw=true"/>
+</p>
+
+<br><br>
+<p align="center">
 <img width="700" src="images/graph4.png?raw=true"/>
 </p>
 <br><br>
