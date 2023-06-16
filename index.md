@@ -3,14 +3,14 @@
 ---
 
 ### Business Analysis - Revenue Growth Models
-[Lariat Rent-A-Car](/sample_page) <br><br>
+[Lariat Rent-A-Car](/sample_page) <br>
 <p align="center">
-<img src="images/Lariat.jpeg?raw=true"/>
+<img width="600" src="images/Lariat.jpeg?raw=true"/>
 </p>
 
 #### Examined and cleaned historical sales data using Excel (VLookUp and pivot tables). Completed exploratory data analysis to identify strategic scenarios to increase revenue, assessed by KPI performance. Presented models that showcased a 20% increase in profits, while lowering or maintaining operational costs.
 
-<br><br>
+<br>
 <p align="center">
 <img width="600" src="images/graph1.png?raw=true"/>
 </p>
