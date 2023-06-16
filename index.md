@@ -61,7 +61,7 @@ This visual is a Scenario Manager created in Excel to show a simple table view o
 <p>
 All calculations were done using 25% of the current vehicle inventory or 25% of the current number of rentals to ensure a more accurate comparison.
 <br><br>
-The better recommendation would be to remove (x) number of vehicles that bring in the lowest net revenue and replace them with an (x) number of vehicles that bring in the highest net revenue.
+The better recommendation would be Strategy 3, to remove (x) number of vehicles that bring in the lowest net revenue and replace them with an (x) number of vehicles that bring in the highest net revenue.
 <br><br>
 All data can be adjusted based on the needs and wants of the company in the Excel file in the "Code" section of this repository.
 </p>
