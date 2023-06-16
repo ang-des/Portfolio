@@ -52,7 +52,7 @@ This visual shows the breakdown of the profits including the Total Revenue, Tota
 <br><br>
 
 <p align="center">
-This visual is a Scenario Manager created in Excel to show a simple table view of the numbers for each strategy compared to the baseline data in 2018.
+This visual is a Scenario Summary created in Excel to show a simple table view of the numbers for each strategy compared to the baseline data in 2018.
 <br><br>
 <img height="225" width="700" src="images/graph5.png?raw=true"/>
 </p>
