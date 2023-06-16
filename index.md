@@ -8,7 +8,10 @@
 <img width="600" src="images/Lariat.jpeg?raw=true"/>
 </p>
 
-##### Examined and cleaned historical sales data using Excel (VLookUp and pivot tables). Completed exploratory data analysis to identify strategic scenarios to increase revenue, assessed by KPI performance. Presented models that showcased a 20% increase in profits, while lowering or maintaining operational costs.
+##### Conducted thorough examination and data cleaning of historical sales data using Excel, employing VLOOKUP and pivot tables to ensure data accuracy and consistency.
+##### Performed in-depth exploratory data analysis to identify strategic scenarios aimed at increasing revenue, evaluating Key Performance Indicators (KPIs) as performance metrics.
+##### Presented comprehensive models that showcased a remarkable 20% increase in profits, while effectively managing and reducing operational costs.
+##### Leveraged data-driven insights to provide actionable recommendations for revenue optimization and cost management strategies, contributing to the company's overall profitability and efficiency.
 
 <p align="center">
 <img height="325" width="600" src="images/graph1.png?raw=true"/>
