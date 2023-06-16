@@ -8,10 +8,19 @@
 <img width="600" src="images/Lariat.jpeg?raw=true"/>
 </p>
 
-##### Conducted thorough examination and data cleaning of historical sales data using Excel, employing VLOOKUP and pivot tables to ensure data accuracy and consistency.
-##### Performed in-depth exploratory data analysis to identify strategic scenarios aimed at increasing revenue, evaluating Key Performance Indicators (KPIs) as performance metrics.
-##### Presented comprehensive models that showcased a remarkable 20% increase in profits, while effectively managing and reducing operational costs.
-##### Leveraged data-driven insights to provide actionable recommendations for revenue optimization and cost management strategies, contributing to the company's overall profitability and efficiency.
+<p>
+Lariat Car Rental Company is committed to driving sustainable growth and optimizing its financial performance. With a strategic focus on profitability and cost efficiency, the company has established the following goals to align its operations:
+<br>
+<ul>
+  <li>Revenue Maximization</li>
+  <li>Cost Reduction and Efficiency</li>
+  <li>Effective Asset Management</li>
+  <li>Customer Experience Enhancement</li>
+  <li>and Continuous Performace Monitoring</li>
+</ul>
+<br>
+Lariat Car Rental Company aims to achieve sustainable profitability, maintain a competitive edge in the market, and deliver exceptional value to its customers while lowering business costs.
+</p>
 
 <br>
 <p align="center">
