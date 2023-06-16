@@ -31,7 +31,7 @@
 <br><br>
 
 <p align="center">
-<img height="230" width="700" src="images/graph5.png?raw=true"/>
+<img height="225" width="700" src="images/graph5.png?raw=true"/>
 </p>
 <br><br>
 
