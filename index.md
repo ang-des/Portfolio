@@ -16,8 +16,8 @@
 
 <br><br>
 <p align="center">
-<img height="275" width="450" src="images/graph2.png?raw=true"/>
-<img height="275" width="450" src="images/graph3.png?raw=true"/>
+<img height="275" width="400" src="images/graph2.png?raw=true"/>
+<img height="275" width="400" src="images/graph3.png?raw=true"/>
 </p>
 
 <br><br>
