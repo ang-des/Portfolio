@@ -18,7 +18,7 @@ Lariat Car Rental Company is committed to driving sustainable growth and optimiz
   <li>Customer Experience Enhancement</li>
   <li>and Continuous Performace Monitoring</li>
 </ul>
-<br>
+
 Lariat Car Rental Company aims to achieve sustainable profitability, maintain a competitive edge in the market, and deliver exceptional value to its customers while lowering business costs.
 </p>
 
