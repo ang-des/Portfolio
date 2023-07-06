@@ -2,6 +2,31 @@
 
 ---
 
+<b>Excel</b><br>
+▪️ [Lariat Rental Car Company](https://github.com/ang-des/Lariat-Rental-Car) <br> 
+ 
+<br> 
+
+<b>SQL</b><br> 
+▪️ [Product Purchases Queries](https://github.com/ang-des/SQL-1) <br> 
+▪️ [Housing Prices Data](https://github.com/ang-des/SQL-2) <br> 
+▪️ [Pet Salon Transactions](https://github.com/ang-des/SQL-3) <br> 
+▪️ [Department of Education Data](https://github.com/ang-des/SQL-4) <br> 
+
+<br> 
+
+<b>Tableau</b><br>
+▪️ 
+
+<br>
+
+<b>Python</b><br>
+▪️  
+
+<br>
+
+---
+
 ### Business Analysis - Revenue Growth Models
 ### Lariat Rent-A-Car
 <p align="center">
