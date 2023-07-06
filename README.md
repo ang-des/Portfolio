@@ -46,6 +46,6 @@ Let's connect!
 
 :diamond_shape_with_a_dot_inside: [Email](mailto:ang.deslandes@gmail.com) <br>
 :diamond_shape_with_a_dot_inside: [LinkedIn](https://www.linkedin.com/in/angela-deslandes/) <br>
-:diamond_shape_with_a_dot_inside: [Resume](https://github.com/ang-des/ang-des.github.io/blob/master/Angela%20Deslandes%20Resume.pdf) <br>
+:diamond_shape_with_a_dot_inside: [Resume](https://github.com/ang-des/portfolio/blob/master/Angela%20Deslandes%20Resume.pdf) <br>
 
 
