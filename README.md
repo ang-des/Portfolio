@@ -20,6 +20,7 @@ I grew up around the New England area in the US but have traveled all over since
 ### Projects: <br>
 <b>Excel</b><br>
 :black_small_square: [Lariat Rental Car Company](https://github.com/ang-des/Lariat-Rental-Car) <br> 
+:black_small_square: [Home Pricing Factors] (https://github.com/ang-des/home-prices-business-research/tree/main) <br>
  
 <br> 
 
