@@ -38,7 +38,8 @@ I grew up around the New England area in the US but have traveled all over since
 <br>
 
 <b>Python</b><br>
-:black_small_square: 
+▪️ [Parkinson's](https://colab.research.google.com/drive/18lTk5HN1K5WvP4qbRxJwRKtg_Kf-2R1C?usp=sharing) <br>
+▪️ [Penguins](https://colab.research.google.com/drive/1e3e5BRmFl2pVdOpsSO-O8MflEGFSHiOB?usp=sharing) <br>
 
 <br>
 
