@@ -4,6 +4,7 @@
 
 <b>Excel</b><br>
 ▪️ [Lariat Rental Car Company](https://github.com/ang-des/Lariat-Rental-Car) <br> 
+▪️ [Home Pricing Factors](https://github.com/ang-des/home-prices-business-research/tree/main) <br>
  
 <br> 
 
