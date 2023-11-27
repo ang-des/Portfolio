@@ -24,6 +24,7 @@
 <b>Python</b><br>
 ▪️ [Parkinson's](https://colab.research.google.com/drive/18lTk5HN1K5WvP4qbRxJwRKtg_Kf-2R1C?usp=sharing) <br>
 ▪️ [Penguins](https://colab.research.google.com/drive/1e3e5BRmFl2pVdOpsSO-O8MflEGFSHiOB?usp=sharing) <br>
+▪️ [World University Rankings](https://colab.research.google.com/drive/1WO3QqJixv08cXFjEThK39HdO_tyPQnGn#scrollTo=LRTEiUSB7PM9) <br>
 
 <br>
 
