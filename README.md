@@ -8,8 +8,7 @@ Data Analyst with a love for leveraging data-driven insights to uncover meaningf
 <br>
 
 :books:<br>
-Proficiency with dashboarding, performance tracking, Pandas, Excel, SQL, Tableau, and Python to transform data into meaningful and easily understood visualizations and presentations. Completed a Bachelor of Arts degree in Computer Science from the University of Rhode Island, as well as the Data Analytics Certification from Thinkful and the Google Data Analytics Professional Certification.
-
+Proficiency with dashboarding, performance tracking, Pandas, Excel, SQL, Tableau, and Python to transform data into meaningful and easily understood visualizations and presentations. Completed a Bachelor of Arts degree in Computer Science from the University of Rhode Island, as well as the Data Analytics Certification from Thinkful.
 <br>
 
 :bulb:<br>
